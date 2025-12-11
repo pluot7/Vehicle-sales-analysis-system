@@ -1,0 +1,673 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>泰迪智能科技-大数据实验室建设_大数据实训平台-大数据人工智能专业建设</title>
+<meta name="keywords" content="大数据实训平台,人工智能实训平台,商务数据分析平台,大数据实验室建设,人工智能实验室建设,商务数据分析实验室建设,大数据人工智能专业建设"/>
+<meta name="description" content="广东泰迪智能科技股份有限公司（简称：泰迪智能科技）提供高校大数据实训平台,人工智能实训平台,商务数据分析平台,专注于大数据人工智能专业建设,为高校大数据实验室建设,人工智能实验室建设,商务数据分析实验室提供一体化解决方案，实现学生从理论知识到能力塑造的开放型能力成长平台,助力成就未来大数据人才"/>
+<link rel="icon" type="image/x-icon" href="/r/cms/tipdmcom/tipdmcom/tip/favicon.ico"/>
+<script type="text/javascript" src="/r/cms/jquery.js"></script>
+<script type="text/javascript" src="/r/cms/front.js"></script>
+<script type="text/javascript" src="/r/cms/tipdmcom/tipdmcom/js/jquery.SuperSlide.js"></script>
+<link type="text/css" rel="stylesheet" href="/r/cms/tipdmcom/tipdmcom/css/tip_home.css" />
+<link type="text/css" rel="stylesheet" href="/r/cms/tipdmcom/tipdmcom/css/tip_index.css" />
+<link type="text/css" rel="stylesheet" href="/r/cms/tipdmcom/tipdmcom/css/iconfont.css" />
+<!--[if lt IE 9]> 
+<script src="/r/cms/tipdmcom/tipdmcom/js/html5shiv.min.js"></script>
+<script src="/r/cms/tipdmcom/tipdmcom/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+$(function() {
+  Cms.siteFlow("", location.href, document.referrer, "true");
+  $.cookie("_site_id_cookie","3",{path: '' });
+});
+</script>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="/r/cms/tipdmcom/tipdmcom/css/login.css" />
+<script>
+function qkeypress(){
+  var q=$("input[name=q]");
+  if(q.val().trim()!=""){
+    $("input[name=q]").autocomplete("enable");
+  }else{
+    $("input[name=q]").autocomplete("disable");
+  }
+}
+</script>
+
+<header class="header rel">
+  <div class="container clearfix"> <a class="logo" href="/"><img src="/r/cms/tipdmcom/tipdmcom/tip/logo.png" srcset="/r/cms/tipdmcom/tipdmcom/tip/logo@2x.png 2x" ></a> 
+<nav class="nav">
+  <ul id="menu" class="menu">
+        <li class=" on"><a href="/">首页</a></li>
+    <li>
+      <a href="http://www.tipdm.com:80/jjfa/index.jhtml" target="">解决方案</a>
+        <ul class="subMenu" id="sub496">
+          <li><a href="http://www.tipdm.com:80/AIGCdmx/index.jhtml" target="">AIGC大模型</a></li>
+          <li><a href="http://www.tipdm.com:80/rgznfa/index.jhtml" target="">人工智能</a></li>
+          <li><a href="http://www.tipdm.com:80/xy+/index.jhtml" target="">行业+</a></li>
+          <li><a href="http://www.tipdm.com:80/dsjfa/index.jhtml" target="">大数据</a></li>
+          <li><a href="http://www.tipdm.com:80/sxjm/index.jhtml" target="">数学建模</a></li>
+          <li><a href="http://www.tipdm.com:80/kcfw/index.jhtml" target="">课程服务</a></li>
+          <li><a href="http://www.tipdm.com:80/hzbxfw/index.jhtml" target="">合作办学</a></li>
+          <li><a href="http://www.tipdm.com:80/rcpy/index.jhtml" target="">人才培养</a></li>
+          <li><a href="http://www.tipdm.com:80/qt/index.jhtml" target="">其他</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="http://www.tipdm.com:80/cp/index.jhtml" target="">产品</a>
+        <ul class="subMenu" id="sub248">
+          <li><a href="http://www.tipdm.com:80/jxgl/index.jhtml" target="">教学管理</a></li>
+          <li><a href="http://www.tipdm.com:80/rgzn/index.jhtml" target="">人工智能</a></li>
+          <li><a href="http://www.tipdm.com:80/dsjsx/index.jhtml" target="">大数据</a></li>
+          <li><a href="http://www.tipdm.com:80/jqryj/index.jhtml" target="">机器人硬件</a></li>
+          <li><a href="http://www.tipdm.com:80/jxzy/index.jhtml" target="">教学资源</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="http://www.tipdm.com:80/px/index.jhtml" target="">培训</a>
+        <ul class="subMenu" id="sub244">
+          <li><a href="http://www.tipdm.com:80/pxdt/index.jhtml" target="">培训动态</a></li>
+          <li><a href="http://www.tipdm.com:80/pxfw/index.jhtml" target="">培训服务</a></li>
+          <li><a href="http://www.tipdm.com:80/pxjshi/index.jhtml" target="">培训讲师</a></li>
+          <li><a href="http://cbda.tipdm.org/" target="_blank">就业培训</a></li>
+          <li><a href="https://edu.tipdm.org/" target="_blank">培训平台</a></li>
+          <li><a href="http://www.tipdm.com/pxzj/1059.jhtml" target="_blank">培训足迹</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="http://www.tipdm.com:80/qyfw/index.jhtml" target="">企业服务</a>
+        <ul class="subMenu" id="sub474">
+          <li><a href="http://www.tipdm.com:80/qyyy/index.jhtml" target="">企业应用</a></li>
+          <li><a href="http://www.tipdm.com:80/qyfww/index.jhtml" target="">企业服务</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="http://www.tipdm.com:80/xqhz/index.jhtml" target="">校企合作</a>
+        <ul class="subMenu" id="sub475">
+          <li><a href="http://www.tipdm.com:80/xtyr/index.jhtml" target="">协同育人</a></li>
+          <li><a href="http://www.tipdm.com:80/sjjd/index.jhtml" target="">实践基地</a></li>
+          <li><a href="http://www.tipdm.com:80/cxcy/index.jhtml" target="">创新创业</a></li>
+          <li><a href="http://www.tipdm.com:80/xmsb/index.jhtml" target="">项目申报</a></li>
+          <li><a href="http://www.tipdm.com:80/hzal/index.jhtml" target="">合作案例</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="http://www.tipdm.com:80/xwzx/index.jhtml" target="">新闻中心</a>
+        <ul class="subMenu" id="sub505">
+          <li><a href="http://www.tipdm.com:80/gsxw/index.jhtml" target="">公司新闻</a></li>
+          <li><a href="http://www.tipdm.com:80/mtbd/index.jhtml" target="">媒体报道</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="https://vslc.ncb.edu.cn/gateway/IndustryIndex?checkIndex=0&id=12100000030000018146&name=%E5%B9%BF%E4%B8%9C%E6%B3%B0%E8%BF%AA%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&unitCode=252" target="_blank">1+X证书</a>
+        <ul class="subMenu" id="sub535">
+          <li><a href="http://www.tipdm.com:80/cbhs/index.jhtml" target="">成本核算</a></li>
+        </ul>
+    </li>
+    <li>
+      <a href="http://www.tipdm.com:80/gywm/index.jhtml" target="">关于我们</a>
+        <ul class="subMenu" id="sub254">
+          <li><a href="http://www.tipdm.com:80/gsjj/index.jhtml" target="">公司简介</a></li>
+          <li><a href="http://www.tipdm.com:80/tdb/index.jhtml" target="">泰迪杯</a></li>
+          <li><a href="http://www.tipdm.com:80/fgs/index.jhtml" target="">分公司</a></li>
+          <li><a href="http://www.tipdm.com:80/dsj/index.jhtml" target="">大事记</a></li>
+          <li><a href="http://www.tipdm.com:80/zzry/index.jhtml" target="">资质荣誉</a></li>
+          <li><a href="http://www.tipdm.com:80/hdtj/index.jhtml" target="">活动图集</a></li>
+          <li><a href="http://www.tipdm.com:80/lxwm/index.jhtml" target="">联系我们</a></li>
+        </ul>
+    </li>
+  </ul>
+</nav>
+<script>
+window.onload = function () {
+  let sub = document.querySelectorAll(".menu li > .subMenu");
+  sub.forEach((item,index) => {
+    if(item.children.length == 0){
+      sub[index].classList.add('nochild')
+    }
+  });
+}
+</script>
+    <div class="header-r">
+      <div id="search" class="search">
+        <input type="text" name="q" placeholder="请输入您要查找的内容" value="" maxlength="50" autocomplete="off" class="searchCon" id="searchInput" onKeyDown="searchEnter()">
+        <a id="searchBtn" class="searchMenu"><i class="iconfont icon-sousuo"></i></a> </div>
+<script language="javascript" type="text/javascript">
+  
+$("#searchBtn").click(function(){sKey();});
+
+function sKey(){
+  var t = $(".searchCon").val().trim();
+  if( t=="" || t=="请输入您要查找的内容"){
+    searchF(0);
+    $(".searchCon").focus();
+  }else if( t !="" ){
+    window.location.href = "/search.jspx?q="+encodeURI(t);
+  }
+}
+
+$(".searchCon").focusout(function(){
+  var t = $(".searchCon").val();
+  if(t==""){
+    searchF(1);
+  }
+});
+
+function searchEnter(){
+    var event = window.event || arguments.callee.caller.arguments[0];
+  if(event.keyCode == 13){
+    sKey();
+  }
+};
+
+</script>
+    </div>
+  </div>
+</header><div class="topBanner">
+  <div class="bd">
+    <ul>
+        <li><a href="https://edu.tipdm.org/business/BUS_cert_gxb/home" target="_self"><img src="/u/cms/tipdmcom/202505/20114050jlv4.png"/></a></li>
+        <li><a href="https://edu.tipdm.org/business/explore/jiuye?orderBy=recommendedSeq&subCategory=zaixianshixi" target="_blank"><img src="/u/cms/tipdmcom/202507/16172851touj.png"/></a></li>
+        <li><a href="http://python.tipdm.org/" target="_blank"><img src="/u/cms/tipdmcom/202011/26104739zn3h.jpg"/></a></li>
+        <li><a href="http://www.tipdm.com/gsxw/2804.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202401/17164745ao2z.jpg"/></a></li>
+        <li><a href="http://" target="_blank"><img src="/u/cms/tipdmcom/202112/03113259mu7q.png"/></a></li>
+    </ul>
+  </div>
+  <div class="hd"><ul></ul></div>
+  <a class="prev" href="javascript:void(0)">&lt;</a>
+  <a class="next" href="javascript:void(0)">&gt;</a>
+</div>
+<script>
+jQuery(".topBanner").slide({ titCell:".hd ul", mainCell:".bd ul", effect:"leftLoop", vis:"auto", autoPlay:true, autoPage:true, trigger:"click" });
+</script>
+    <!-- 实验室建设 -->
+    <section id="gxyw" class="indBlock gxyw">
+      <div class="container">
+        <div class="hd clearfix">
+          <h3><a href="http://www.tipdm.com:80/jjfa/index.jhtml">解决方案</a></h3>
+          <div class="introTxt">结合产业需求，为高校提供大数据&人工智能专业建设服务</div>
+        </div>
+        <div class="bd">
+            <ul class="gList list-paddingleft-2"><li><p><a><span class="img"></span></a></p><div class="con"><a><span class="tit">人才培养方案建设</span><p class="txt">和500余所高校共同制定人才培养方案，覆盖大数据、数据挖掘、人工智能等相关专业</p></a></div></li><li><p><a><span class="img"></span></a></p><div class="con"><a><span class="tit">课程资源建设</span><p class="txt">联合编写教材70余本，教材使用高校超2000所。研发大数据课程500余门，编写实训指导书1000余份</p></a></div></li><li><p><a><span class="img"></span></a></p><div class="con"><a><span class="tit">师资建设</span><p class="txt">为1000余高校提供师资培训，培训足迹覆盖32个省份，总计培训超过500场次，培训人数超过20000人</p></a></div></li><li><p><a><span class="img"></span></a></p><div class="con"><a><span class="tit">实验室建设</span><p class="txt">研发实训产品20余套教学沙盘10余个累计为200余所高校建设实验室，解决课程的实训问题</p></a></div></li><li><p><a><span class="img"></span></a></p><div class="con"><a><span class="tit">教学服务建设</span><p class="txt">提供企业见习、校外实践基地、科研项目合作、大数据讲座、“泰迪杯”竞赛指导等10余类教学服务</p></a></div></li></ul>
+        </div>
+        <div class="fd"><a class="moreLink" href="http://www.tipdm.com:80/jjfa/index.jhtml">了解更多</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 产品中心 -->
+    <section id="cpfw" class="indBlock cpfw bgw">
+      <div class="container">
+        <div class="hd clearfix">
+          <h3><a href="http://www.tipdm.com:80/cp/index.jhtml">产品</a></h3>
+          <div class="introTxt">打造国内领先的大数据&人工智能产品及课程资源</div>
+        </div>
+        <div class="bd">
+          <ul class="cList">
+            <li>
+              <a class="img" href="http://www.tipdm.com:80/jxgl/2268.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202506/16151825wui7.jpg" alt="实训管理平台" /></a>
+                            <a class="tit" href="http://www.tipdm.com:80/jxgl/2268.jhtml" title="实训管理平台" target="_blank">实训管理平台</a>
+              <p class="desc">实训管理平台作为教学核心，统一整合课程与实训资源，提供在线学习、实践、测评一站式服务。...</p>
+              <div class="outBtn">
+                  <a class="outLink" target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="专属客服">业务咨询</a>
+              </div>
+            </li>
+            <li>
+              <a class="img" href="http://www.tipdm.com:80/jxgl/3126.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202506/16151843rfqn.jpg" alt="数字人应用平台" /></a>
+                            <a class="tit" href="http://www.tipdm.com:80/jxgl/3126.jhtml" title="数字人应用平台" target="_blank">数字人应用平台</a>
+              <p class="desc">数字人应用平台是一款深度融合AI生成与多模态交互技术的教学辅助工具，专注解决课件制作低效...</p>
+              <div class="outBtn">
+                  <a class="outLink" target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="专属客服">业务咨询</a>
+              </div>
+            </li>
+            <li>
+              <a class="img" href="http://www.tipdm.com:80/jxgl/3110.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202506/16151859xoot.jpg" alt="智能评阅平台" /></a>
+                            <a class="tit" href="http://www.tipdm.com:80/jxgl/3110.jhtml" title="智能评阅平台" target="_blank">智能评阅平台</a>
+              <p class="desc">智能评阅平台是一款利用领先的大模型技术实现主观题的自动化智能评阅的教学辅助工具，旨在显...</p>
+              <div class="outBtn">
+                  <a class="outLink" target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="专属客服">业务咨询</a>
+              </div>
+            </li>
+            <li>
+              <a class="img" href="http://www.tipdm.com:80/jqryj/3172.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202506/17102532to67.jpg" alt="人工智能综合实验箱" /></a>
+                            <a class="tit" href="http://www.tipdm.com:80/jqryj/3172.jhtml" title="人工智能综合实验箱" target="_blank">人工智能综合实验箱</a>
+              <p class="desc">人工智能综合实验箱主要面向人工智能、大数据相关专业，集成了计算机视觉系统、语音处理系统...</p>
+              <div class="outBtn">
+                  <a class="outLink" target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="专属客服">业务咨询</a>
+              </div>
+            </li>
+            <li>
+              <a class="img" href="http://www.tipdm.com:80/jqryj/3109.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202506/17100142emos.jpg" alt="智能六足机器人" /></a>
+                            <a class="tit" href="http://www.tipdm.com:80/jqryj/3109.jhtml" title="智能六足机器人" target="_blank">智能六足机器人</a>
+              <p class="desc">智能六足机器人是用于机器人教学和实践的可编程智能仿生机器人平台。本机器人沙盘能兼容全球...</p>
+              <div class="outBtn">
+                  <a class="outLink" target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="专属客服">业务咨询</a>
+              </div>
+            </li>
+            <li>
+              <a class="img" href="http://www.tipdm.com:80/rgzn/3100.jhtml" target="_blank"><img src="/u/cms/tipdmcom/202506/17104721lbxy.jpg" alt="数据标注平台" /></a>
+                            <a class="tit" href="http://www.tipdm.com:80/rgzn/3100.jhtml" title="数据标注平台" target="_blank">数据标注平台</a>
+              <p class="desc">数据标注岗员位技能实训平台是一款针对数据标注岗位技能教学和实践的软件工具。平台支持图像...</p>
+              <div class="outBtn">
+                  <a class="outLink" target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="专属客服">业务咨询</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="fd"><a class="moreLink" href="http://www.tipdm.com:80/cp/index.jhtml">了解更多</a></div>
+      </div>
+    </section>
+
+<script type="text/javascript">
+function qqOpen(qq){
+    var link = 'http://wpa.qq.com/msgrd?v=3&uin='+qq+'&site=qq&menu=yes';
+    window.open(link,'_blank');
+  }
+</script>
+
+    <!-- 培训 -->
+    <section id="pxrz" class="indBlock pxrz">
+      <div class="container">
+        <div class="hd clearfix">
+          <h3><a href="http://www.tipdm.com:80/px/index.jhtml">培训</a></h3>
+          <div class="introTxt">围绕数据分析实战、人工智能实战、大数据开发实战等方向，助力大数据人才培养</div>
+        </div>
+        <div class="bd">
+            <ul class="pxrzList list-paddingleft-2"><li><div class="mDiv"><span class="img"></span><div class="con"><span class="tit">师资</span><p class="txt">讲师团队兼备《Python数据分析与挖掘实战》、《Hadoop大数据分析与挖掘》等30余本畅销教材编写经验、高校教学经验及丰富大型企业数据挖掘应用与咨询经验。</p></div></div></li><li><div class="mDiv"><span class="img"></span><div class="con"><span class="tit">内容</span><p class="txt">课程设计依照独创的鱼骨教学法理念，实现“用以致学“。精选数十个企业真实项目案例，涵盖电力、互联网、金融等多个行业应用，学会10个项目相当于积累3年项目经验。</p></div></div></li><li><div class="mDiv"><span class="img"></span><div class="con"><span class="tit">形式</span><p class="txt">授课类型多样，包含师资培训、校内实训、在线实习、高薪就业培训、企业内训、省培国培；开展形式丰富，包括线上远程教学、线下集中面授等方式，解决不同人群的学习需求。</p></div></div></li><li><div class="mDiv"><span class="img"></span><div class="con"><span class="tit">评定</span><p class="txt">具备“计算机程序设计员”“大数据应用开发（Python）”等职业技能等级证书评定资格，提升学员就业竞争力。</p></div></div></li></ul>
+        </div>
+        <div class="fd"><a class="moreLink" href="http://www.tipdm.com:80/px/index.jhtml">了解更多</a></div>
+      </div>
+    </section>
+    
+    <!-- 成功案例 -->
+    <section id="cgal" class="indBlock cgal">
+        <div class="hd clearfix">
+          <h3><a href="#">成功案例</a></h3>
+          <div class="introTxt"><p>与高校、企业、培训机构展开合作，共同推动中国大数据市场的成长建设</p></div>
+        </div>
+        <div class="bd">
+          <div class="hds">
+            <ul>
+              <li>高 校</li>
+              <li>培 训</li>
+              <li>企 业</li>
+            </ul>
+          </div>
+          <div class="bds">
+
+                <div class="caList">
+                  <ul>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/201907/051737073e3x.jpg" alt="校企合作：华南师范大学" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/hzal/1769.jhtml" title="校企合作：华南师范大学" target="_blank">
+                        <h1 class="tit">校企合作：华南师范大学</h1>
+                        <p class="desc">华南师范大学始建于1933年，前身是广东省立勷勤大学师范学院。1996年进入国家“211 工程”重点建设大学行列，2015年成为广东省人民政府和教育部共建高校，同年进入广东省高水平大学整体建设高校行列，2017年学校进入国家“世界一流学科”建设行列。...</p>
+                        <span class="dateTime">2019-07-04</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/201907/05161935fa03.jpg" alt="校企合作：华北理工大学" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/hzal/1770.jhtml" title="校企合作：华北理工大学" target="_blank">
+                        <h1 class="tit">校企合作：华北理工大学</h1>
+                        <p class="desc">华北理工大学是一所以工、医为主，理、经、管、文、法、艺、教等多科性协调发展，具有留学生教育、博士硕士研究生教育、本科教育、继续教育等教育类别和层次的省属重点骨干大学、省重点支持的国家一流大学建设高校。学校为河北省人民政府与国家安全...</p>
+                        <span class="dateTime">2019-07-04</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/202312/121405413dir.png" alt="校企合作：武汉学院" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/hzal/2782.jhtml" title="校企合作：武汉学院" target="_blank">
+                        <h1 class="tit">校企合作：武汉学院</h1>
+                        <p class="desc">多功能大数据实验室是泰迪智能科技与武汉学院共同搭建的智能实验室，通过促进学科融合发展，为学生提供了专业实验课程教学的场所，提升学生动手与创新能力，最终达到培养学习主动、基础扎实、知识全面及创新能力强的复合型人才的目标。该实验室最具...</p>
+                        <span class="dateTime">2023-12-08</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/202312/12144723cdo6.png" alt="校企合作：陕西科技大学镐京学院" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/hzal/2783.jhtml" title="校企合作：陕西科技大学镐京学院" target="_blank">
+                        <h1 class="tit">校企合作：陕西科技大学镐京学院</h1>
+                        <p class="desc">泰迪智能科技与陕西科技大学镐京学院合作共建人工智能实训室，旨在为学校提供人工智能系列产品及课程体系，助力推动人工智能企业科技成果向教育成果转化。该实验室结合国际VEX机器人比赛，通过人工智能核心课程理论+竞赛实践+行业创新应用实训教学...</p>
+                        <span class="dateTime">2023-12-12</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <a class="moreLink" href="http://www.tipdm.com:80/hzal/index.jhtml" target="_blank"">更多案例</a>
+                </div>
+
+
+                <div class="caList">
+                  <ul>
+                    <li>
+<div class="img noImg"></div>
+                      <a class="con" href="http://www.tipdm.com:80/pxcg/3241.jhtml" title="“拾光同行，桃李成林”暨2025韩山师范学院数学与统计学院数据智能方向企业微专业开班典礼圆满结束" target="_blank">
+                        <h1 class="tit">“拾光同行，桃李成林”暨2025韩山师范学院数学与统计学院数据智能方向企业微专业开班典礼圆满结束</h1>
+                        <p class="desc">   8月1日，泰迪智能科技携手韩山师范学院开展的“拾光同行，桃李成林”——2025韩山师范学院数学与统计学院数据智能方向企业微专业开班典礼在泰迪智能科技产教融合实训基地举行。韩山师范学院教务部部长袁德辉、数学与统计学院院长肖刚、副院长薛...</p>
+                        <span class="dateTime">2025-08-01</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/202412/30101811revh.jpg" alt="“云梦乘风起，数智继风华”丨2024韩山师范学院数学与统计学院大数据方向企业微专业结业典礼圆满结束" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/pxcg/3085.jhtml" title="“云梦乘风起，数智继风华”丨2024韩山师范学院数学与统计学院大数据方向企业微专业结业典礼圆满结束" target="_blank">
+                        <h1 class="tit">“云梦乘风起，数智继风华”丨2024韩山师范学院数学与统计学院大数据方向企业微专业结业典礼圆满结束</h1>
+                        <p class="desc">12月27日，泰迪智能科技携手韩山师范学院开展的“云梦乘风起，数智继风华”——2024韩山师范学院数学与统计学院大数据方向企业微专业结业典礼在泰迪智能科技产教融合实训基地举行。韩山师范学院数学与统计学院院长肖刚、韩山师范学院教务部副部长蔡...</p>
+                        <span class="dateTime">2024-12-27</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/202410/25092243o2zv.jpg" alt=" AI绘梦丨泰迪智能科技助力2024新媒体+大数据专项人才培养班" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/pxcg/3061.jhtml" title=" AI绘梦丨泰迪智能科技助力2024新媒体+大数据专项人才培养班" target="_blank">
+                        <h1 class="tit"> AI绘梦丨泰迪智能科技助力2024新媒体+大数据专项人才培养班</h1>
+                        <p class="desc">   10月19日，韩山师范学院 2024届新媒体+大数据专项人才培养班特邀广东泰迪智能科技股份有限公司AIGC讲师李祥开展“新媒体+大数据”应用型专项人才培养计划第五讲与第六讲。课上，李祥老师首先将目光投向当下的就业环境，剖析就业市场的现状，鼓励...</p>
+                        <span class="dateTime">2024-10-19</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img data-lazy-src="/u/cms/tipdmcom/202410/08142714t09b.jpg" alt="“国庆同乐 青春同频”主题团建活动圆满结束" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/pxcg/3039.jhtml" title="“国庆同乐 青春同频”主题团建活动圆满结束" target="_blank">
+                        <h1 class="tit">“国庆同乐 青春同频”主题团建活动圆满结束</h1>
+                        <p class="desc">  9月29日，为进一步丰富泰迪智能科技2024届韩山师范企业微专业与广州大学协同育人班的课余生活，更好的培养学员的思想道德、能力培养、个性发展、身体健康和心理健康教育等各方面，助力学员全面发展，帮助学员更快融入集体中，教务部黄晨华老师携2...</p>
+                        <span class="dateTime">2024-09-29</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <a class="moreLink" href="http://www.tipdm.com:80/pxcg/index.jhtml" target="_blank"">更多案例</a>
+                </div>
+
+
+                <div class="caList">
+                  <ul>
+                    <li>
+                      <div class="img"><img src="/u/cms/tipdmcom/201907/08144540fcm9.jpg" alt="信访大数据-智慧信访大数据平台解决方案" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/qyyy/1790.jhtml" title="信访大数据-智慧信访大数据平台解决方案" target="_blank">
+                        <h1 class="tit">信访大数据-智慧信访大数据平台解决方案</h1>
+                        <p class="desc">智慧信访是应国家大数据战略而生，以人民信访思路为指导，以人工智能技术为手段，以技术与信访实务结合为目标，为深入了解民情，集中民智，精准体察民意，提供技术支撑。让大数据分析增强工作前瞻性，精准信访，持续发力，从而提高社会治理水平。</p>
+                        <span class="dateTime">2023-01-13</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img src="/u/cms/tipdmcom/201907/161114537hx2.jpg" alt="信访大数据-信访矛盾多元化解解决方案" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/qyyy/1802.jhtml" title="信访大数据-信访矛盾多元化解解决方案" target="_blank">
+                        <h1 class="tit">信访大数据-信访矛盾多元化解解决方案</h1>
+                        <p class="desc">为贯彻落实习总书记关于加强和改进人民信访工作的重要思想，实现与智慧信访深度融合，探索建立了网上信访矛盾智能化解平台。以整合信访机构、责任单位、司法机关、行业组织等社会资源，有效组织人民调解员、律师、心理咨询师、行业专家、人工智能（...</p>
+                        <span class="dateTime">2022-07-14</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img src="/u/cms/tipdmcom/202307/281023438s4m.png" alt="大数据法律监督模型平台" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/qyyy/2457.jhtml" title="大数据法律监督模型平台" target="_blank">
+                        <h1 class="tit">大数据法律监督模型平台</h1>
+                        <p class="desc">大数据法律监督平台是基于监督数据整合管理平台、监督模型构建平台、内置模型库以及法律监督线索管理平台打造的一套服务于检察机关法律监督工作的专业化系统。通过数据采集、融合、挖掘、建模、展现等一系列能力，辅助检察官从纷繁复杂的数据中，开...</p>
+                        <span class="dateTime">2023-05-18</span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="img"><img src="/u/cms/tipdmcom/201907/081449453fdu.jpg" alt="交通运输大数据-道路运输安全大数据分析解决方案" /></div>
+                                            <a class="con" href="http://www.tipdm.com:80/qyyy/1792.jhtml" title="交通运输大数据-道路运输安全大数据分析解决方案" target="_blank">
+                        <h1 class="tit">交通运输大数据-道路运输安全大数据分析解决方案</h1>
+                        <p class="desc">建立面向道路运输行业和运输企业多层面应用的道路运输安全管理大数据平台，汇聚车辆运行动态监控数据、新车技术参数、运输企业安全生产管理信息、运政管理信息、气象信息等多源数据，形成道路运输过程大数据池，重点针对运营过程中车辆性能的变化规...</p>
+                        <span class="dateTime">2020-06-09</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <a class="moreLink" href="http://www.tipdm.com:80/qyfw/index.jhtml" target="_blank"">更多案例</a>
+                </div>
+
+          </div>
+        </div>
+    </section>
+<script>
+$("#cgal").slide({mainCell:".bds",titCell:".hds ul li",autoPlay:false,titOnClassName:"on",trigger:"click",defaultIndex:2});
+</script>
+
+    <!-- 新闻中心 --> 
+    <section id="xwzx" class="indBlock xwzx bgw">
+      <div class="container">
+        <div class="hd clearfix">
+          <h3><a href="http://www.tipdm.com:80/xwzx/index.jhtml">新闻中心</a></h3>
+          <div class="introTxt">实时更新公司，培训等相关资讯，让你了解最新动态</div>
+        </div>
+        <div class="bd"> 
+          <ul class="newstList">
+            <li class="imgLi">
+              <a href="http://www.tipdm.com:80/gsxw/3277.jhtml" title="湖北工程学院新技术学院领导一行莅临泰迪智能科技参观交流" target="_blank">
+                <div class="img"><img src="/u/cms/tipdmcom/202510/17101314c1io.png" alt="湖北工程学院新技术学院领导一行莅临泰迪智能科技参观交流" /></div>
+                <div class="tit">湖北工程学院新技术学院领导一行莅临泰迪智能科技参观交流</div>
+              </a>
+            </li>
+            <li class="titLi">
+              <a href="http://www.tipdm.com:80/gsxw/3276.jhtml" title="江西环境工程职业学院领导一行莅临泰迪智能科技参观交流" target="_blank">
+                <div class="dateTime">
+                  <span class="day">15</span>
+                  <p>
+                    <span class="mon">- 10 月</span>
+                    <span class="year">2025年</span>
+                  </p>
+                </div>
+                <div class="txt">
+                  <div class="tit">江西环境工程职业学院领导一行莅临泰迪智能科技参观交流</div>
+                  <div class="intro">10月15日，江西环境工程职业学院人工智能技术应用专业教研室黄丽丽主任、秦兴红博士、物联网技术应用专业教研室严小强主任等领导一行莅临泰迪智能科技，泰迪智能科技董事长张良均、中职事业部总经理李振林、校企合作经理陈志林、工程师赖小娇、企业...</div>
+                </div>
+              </a>
+            </li>
+            <li class="titLi">
+              <a href="http://www.tipdm.com:80/gsxw/3274.jhtml" title="泰迪·广州城建职业学院上进双创工作室启动仪式成功举行" target="_blank">
+                <div class="dateTime">
+                  <span class="day">14</span>
+                  <p>
+                    <span class="mon">- 10 月</span>
+                    <span class="year">2025年</span>
+                  </p>
+                </div>
+                <div class="txt">
+                  <div class="tit">泰迪·广州城建职业学院上进双创工作室启动仪式成功举行</div>
+                  <div class="intro">0月14日，泰迪・广州城建职业学院上进双创工作室启动会议在广州城建职业学院未来技术应用学院顺利举行。广州城建职业学院未来技术应用学院院长潘丹、副院长郑永芹、人工智能教研室主任姚袁、教师徐金诚、李哲宏、乔凯，以及泰迪智能科技董事长张良...</div>
+                </div>
+              </a>
+            </li>
+            <li class="titLi">
+              <a href="http://www.tipdm.com:80/gsxw/3273.jhtml" title="河南医学高等专科学校领导一行莅临泰迪智能科技参观交流" target="_blank">
+                <div class="dateTime">
+                  <span class="day">13</span>
+                  <p>
+                    <span class="mon">- 10 月</span>
+                    <span class="year">2025年</span>
+                  </p>
+                </div>
+                <div class="txt">
+                  <div class="tit">河南医学高等专科学校领导一行莅临泰迪智能科技参观交流</div>
+                  <div class="intro">10月13日，河南医学高等专科学校学术委员会主任余善法、公共卫生与健康管理学院副院长刘建涛、公共基础部办公室主任刘师良、广州卫生职业技术学院书记黄德胜等领导一行莅临泰迪智能科技，泰迪智能科技董事长张良均、副总经理施兴、校企合作经理孟光...</div>
+                </div>
+              </a>
+            </li>
+            <li class="titLi">
+              <a href="http://www.tipdm.com:80/gsxw/3275.jhtml" title="产教评“样板工程”中期成果展圆满举行，泰迪科技助力构建产教融合新生态" target="_blank">
+                <div class="dateTime">
+                  <span class="day">10</span>
+                  <p>
+                    <span class="mon">- 10 月</span>
+                    <span class="year">2025年</span>
+                  </p>
+                </div>
+                <div class="txt">
+                  <div class="tit">产教评“样板工程”中期成果展圆满举行，泰迪科技助力构建产教融合新生态</div>
+                  <div class="intro">10月10日，广州市产教评“样板工程”建设项目中期成果展示交流活动在广州市高技能人才公共实训中心基地顺利举行。本次活动以 “生态融合・技能赋能” 为主题，由广州市人力资源和社会保障局主办，汇聚广东省人社厅、广州市人社局、数科集团及各校企...</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="fd"><a class="moreLink" href="http://www.tipdm.com:80/xwzx/index.jhtml">更多资讯</a></div>
+      </div>
+    </section>
+
+  <!--  合作伙伴-->
+  <section id="hzhb" class="indBlock hzhb">
+    <div class="container">
+      <div class="hd">
+        <h3><a href="/tipdm/hzhb/">合作伙伴</a></h3>
+        <div class="introTxt">让更多的合作伙伴分享我们的产品优势和品牌成果</div>
+      </div>
+      <div class="bd">
+        <ul class="imgList clearfix">
+          <li><a title="深圳市福田区信访局"><img src="/u/cms/tipdmcom/201907/0810300355bp.jpg"></a></li>
+          <li><a title="中国电子科技集团公司第五十四研究所"><img src="/u/cms/tipdmcom/201907/08102832v3mx.jpg"></a></li>
+          <li><a title="广东粤海水务股份有限公司"><img src="/u/cms/tipdmcom/201907/08102807ur4j.jpg"></a></li>
+          <li><a title="中国石油勘探开发研究院"><img src="/u/cms/tipdmcom/201907/08102744nyab.jpg"></a></li>
+          <li><a title="广东美的集团股份有限公司"><img src="/u/cms/tipdmcom/201907/08102649wul9.jpg"></a></li>
+          <li><a title="广州珠江数码集团股份有限公司"><img src="/u/cms/tipdmcom/201907/081015042q68.jpg"></a></li>
+          <li><a title="人民邮电出版社"><img src="/u/cms/tipdmcom/201907/081023162bw0.jpg"></a></li>
+          <li><a title="上海农商银行"><img src="/u/cms/tipdmcom/201907/08102943bbvl.jpg"></a></li>
+          <li><a title="轻工业环境保护研究所"><img src="/u/cms/tipdmcom/201907/08102903viac.jpg"></a></li>
+          <li><a title="中国水产科学研究所珠江水产研究所"><img src="/u/cms/tipdmcom/201907/08101921bixd.jpg"></a></li>
+          <li><a title="中国电力科学研究院"><img src="/u/cms/tipdmcom/201907/08102254pa94.jpg"></a></li>
+          <li><a title="中国南方电网"><img src="/u/cms/tipdmcom/201907/08102351tswz.jpg"></a></li>
+          <li><a title="北京市信访矛盾分析研究中心"><img src="/u/cms/tipdmcom/202106/171641327dds.jpg"></a></li>
+          <li><a title="交通运输部公路科学研究所"><img src="/u/cms/tipdmcom/201901/10110658f6fw.jpg"></a></li>
+          <li><a title="中国水产科学研究所黄海水产研究所"><img src="/u/cms/tipdmcom/201907/081021140aqo.jpg"></a></li>
+        </ul>
+         </div>
+      <!-- <div class="fd"><a id="morePn" class="morePn"><i class="iconfont icon-xia"></i></a></div> -->
+    </div>
+  </section>
+  <script>
+    $("#morePn").click(
+      function(){
+        $("#morePn i").toggleClass("fa-angle-double-up");
+        var n = $("#hzhb .bd").hasClass("mPartner")
+        if(n==0){
+          $("#hzhb .bd").addClass("mPartner");
+          $("#morePn i").removeClass("fa-angle-double-down");
+          $("#morePn i").addClass("fa-angle-double-up");
+        }else{
+          $("#hzhb .bd").removeClass("mPartner");
+          $("#morePn i").removeClass("fa-angle-double-up");
+          $("#morePn i").addClass("fa-angle-double-down");
+        }
+      }
+    );
+  </script> 
+</div>
+
+<footer class="footer">
+  <div class="webInfo container clearfix">
+    <div class="webTxt fl">
+      <div class="slogan">“专注于大数据挖掘技术研发及知识传播”</div>
+      <div class="footerLink">
+        <ul class="clearfix">
+                    <li><a href="https://cjrh.tipdm.com/" onclick="$.get('/friendlink_view.jspx?id=257')" target="_blank">产教融合服务平台</a></dd> 
+          <li><a href="https://python.tipdm.org/" onclick="$.get('/friendlink_view.jspx?id=203')" target="_blank">大数据挖掘企业服务平台</a></dd> 
+          <li><a href="http://www.tipdm.cn/" onclick="$.get('/friendlink_view.jspx?id=115')" target="_blank">模型交易平台</a></dd> 
+          <li><a href="http://www.tipdm.org/" onclick="$.get('/friendlink_view.jspx?id=117')" target="_blank">BdRace数睿思竞赛平台</a></dd> 
+          <li><a href="https://www.5iai.com" onclick="$.get('/friendlink_view.jspx?id=204')" target="_blank">泰迪内推</a></dd> 
+          <li><a href="http://cbda.tipdm.org/" onclick="$.get('/friendlink_view.jspx?id=114')" target="_blank">泰迪教育</a></dd> 
+          <li><a href="https://edu.tipdm.org/" onclick="$.get('/friendlink_view.jspx?id=116')" target="_blank">泰迪云课堂</a></dd> 
+          <li><a href="https://book.tipdm.org/" onclick="$.get('/friendlink_view.jspx?id=258')" target="_blank">泰迪云教材</a></dd> 
+        </ul>
+      </div>
+      <div class="Copyright">Copyright © GuangDong TipDM Intelligent Technology Co.,Ltd. <span id="year">2017</span> &nbsp;&nbsp; 广东泰迪智能科技股份有限公司 &nbsp;&nbsp; <a href="http://beian.miit.gov.cn" target="_blank">粤ICP备14098620号</a> &nbsp;&nbsp; <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011202000980" target="_blank">粤公网安备44011202000980号</a></div>
+    </div>
+    <div class="weixin fr"> <img src="/r/cms/tipdmcom/tipdmcom/tip/weixin.png" alt="官方公众号" width="120"> <p>扫描二维码</p><p>关注公众号</p> </div>
+  </div>
+</footer>
+<script type="text/javascript" language="javascript">
+  $(function(){
+    var myDate = new Date();
+    $("#year").text(myDate.getFullYear());
+  })
+  
+   //加入收藏
+       function AddFavorite(sURL, sTitle) {
+           sURL =encodeURI(sURL); 
+       try{   
+          window.external.addFavorite(sURL, sTitle);   
+       }catch(e) {   
+          try{   
+              window.sidebar.addPanel(sTitle, sURL, "");   
+           }catch (e){   
+              alert("您的浏览器不支持自动加入收藏功能，请使用Ctrl+D进行添加，或手动在浏览器里进行设置！");
+          }   
+       }
+   }
+   
+   //设为首页
+   function SetHome(url){
+       if (document.all) {
+          document.body.style.behavior='url(#default#homepage)';
+             document.body.setHomePage(url);
+       }else{
+           alert("您的浏览器不支持自动设置页面为首页功能，请您手动在浏览器里设置该页面为首页！");
+       }
+   }
+</script>
+<div class="right-fixed">
+  <ul>
+    <!--
+    <li class="app">
+      <div class="app-logo"></div>
+    </li>
+    -->
+    <li class="weixin">
+      <div class="tBox weixin-logo">
+        <!-- <div class="tit">
+          <font>扫描二维码</font><br>
+          关注官方公众号</div>
+        <img src="/r/cms/tipdmcom/tipdmcom/tip/weixin.png">  -->
+        <img src="/r/cms/tipdmcom/tipdmcom/tip/EnterpriseWeChat.png">
+      </div>
+    </li>
+    <li class="qq">
+      <div class="tBox qq-logo">
+        <div class="qqLink">
+          <a target="_blank" onclick="qqOpen(3120701392)" href="javascript:qqOpen(3120701392)" title="许老师">许老师：3120701392</a>
+
+      <!-- <a target="_blank" onclick="qqOpen(3514662177)" href="javascript:qqOpen(3514662177)" title="客服一">客服一</a> 
+        <a target="_blank" onclick="qqOpen(2459935724)" href="javascript:qqOpen(2459935724)" title="客服二">客服二</a> 
+        <a target="_blank" onclick="qqOpen(3526567870)" href="javascript:qqOpen(3526567870)" title="客服三">客服三</a> 
+        <a target="_blank" onclick="qqOpen(324020430)" href="javascript:qqOpen(324020430)" title="客服四">客服四</a> </div> -->
+      </div>
+    </li>
+    <li class="hotNum">
+      <div class="tBox hotNum-logo">
+          张老师：18927565259
+      </div>
+    </li>
+    <li class="back-top"></li>
+  </ul>
+  <script type="text/javascript">
+  $(function(){
+    var $body = $(document.body);;
+    var $bottomTools = $('.right-fixed');
+      $(window).scroll(function () {
+        var scrollHeight = $(document).height();
+        var scrollTop = $(window).scrollTop();
+        scrollTop > 50 ? $(".back-top").slideDown(300).css("display","block") : $(".back-top").slideUp(300);      
+      });
+      $('.back-top').click(function (e) {
+        e.preventDefault();
+        $('html,body').animate({ scrollTop:0});
+      });
+      
+  });
+    function qqOpen(qq){
+    var link = 'http://wpa.qq.com/msgrd?v=3&uin='+qq+'&site=qq&menu=yes';
+    window.open(link,'_blank');
+  }
+  
+  $('#cs_close').bind('click',function(){
+    $('#cs_box').hide();
+  });
+  </script> 
+</div>
+<script language="javascript" type="text/javascript" src="/r/cms/tipdmcom/tipdmcom/js/EasyLazyload.min.js"></script>
+<script>
+  lazyLoadInit({
+    coverColor:"transparent",
+    offsetBottom:0,
+    offsetTopm:0,
+    showTime:500,
+  });
+</script>
+</body>
+</html>
